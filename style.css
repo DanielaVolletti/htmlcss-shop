@@ -1,10 +1,18 @@
-section {
+section{
   display: inline-block;
   position: relative;
 }
 
-.sconto {
+.sconto{
   position: absolute;
   top: 0px;
   right: 0px;
+  background-color: green;
+}
+
+.sconto2{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: red;
 }
