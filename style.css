@@ -8,6 +8,7 @@ section{
   top: 0px;
   right: 0px;
   background-color: green;
+  font-size: 13px;
 }
 
 .sconto2{
@@ -15,6 +16,7 @@ section{
   top: 0px;
   right: 0px;
   background-color: red;
+  font-size: 13px;
 }
 
 .cuore{
